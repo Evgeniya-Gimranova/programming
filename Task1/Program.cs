@@ -10,12 +10,9 @@ int a = 25;
 int b = 5;
 int square = b * b;
 if(square == a)
-{
     Console.WriteLine("Да");
-}
 else
-{
     Console.WriteLine("Нет");
-}
+
 
 
